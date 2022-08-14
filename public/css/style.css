@@ -1,0 +1,42 @@
+.text-center {
+    text-align: center;
+}
+
+.margin-top {
+    margin-top: 15%;
+}
+
+.margin-top-5 {
+    margin-top: 5%;
+}
+
+.margin-bottom-5 {
+    margin-bottom: 10%;
+}
+
+.register-style {
+    color: white;
+}
+
+.input-style {
+    box-sizing: border-box;
+    align-content: center;
+    align-items: center;
+    margin: 1% 40% 2% 40%;
+}
+
+.background-img {
+    background-image: url('../css/images/Screenshot_2.png');
+    background-size: 1980px 1080px;
+}
+
+.button-style {
+    width: 6%;
+    background-color: darkblue;
+    color: white;
+}
+
+.margin-add-button {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
